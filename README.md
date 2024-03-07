@@ -1,2 +1,1 @@
-# mini-vue2
-vue2 仿写
+手写 vue2 源码
